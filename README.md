@@ -16,7 +16,8 @@
 - **Appearance:** Yes it looks good:)) if you are blind :)).
 
 Did I make it alone? **No way**. I followed some YouTube tutorials to learn the basics and some videos for the database connection.
-
+<br>
+Tech used: Boostrap, Django, Python, some HTML and some SqLite
 <br>
 <br>
 
