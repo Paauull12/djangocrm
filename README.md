@@ -13,7 +13,7 @@
 
 ## Status
 - **Functionality:** Yes, the app has all the basic functionalities.
-- **Appearance:** Yes :)) if you are blind :)).
+- **Appearance:** Yes it looks good:)) if you are blind :)).
 
 Did I make it alone? No way. I followed some YouTube tutorials to learn the basics and something for the database connections.
 ![image](https://github.com/Paauull12/djangocrm_pentru_studenti/assets/146517524/683fa5e2-9731-498f-8084-215b0094db20)
