@@ -10,3 +10,5 @@ It looks good ? Yes :)) if you are blind :)).
 <br>
 
 Here is a demo for the app. It currently supports basic CRUD functionalities. With additional time spent integrating the Stripe API and improving the UI design, it could become a very useful application.
+<br>
+Did I make it alone? No way. I followed some YouTube tutorials to learn the basics and something for the database connections.
