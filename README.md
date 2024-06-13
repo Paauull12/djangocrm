@@ -19,6 +19,7 @@ Did I make it alone? **No way**. I followed some YouTube tutorials to learn the 
 
 <br>
 <br>
+
 ![image](https://github.com/Paauull12/djangocrm_pentru_studenti/assets/146517524/683fa5e2-9731-498f-8084-215b0094db20)
 ![image](https://github.com/Paauull12/djangocrm_pentru_studenti/assets/146517524/66ca09f6-0b0c-4531-8a7a-55fab4ad4b3b)
 ![image](https://github.com/Paauull12/djangocrm_pentru_studenti/assets/146517524/71e0be7d-f99e-4436-98dc-8b0111fe4517)
